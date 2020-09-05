@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Henry 👋 
+
+I'm a backend and cloud engineer with a passion for automation.
 
 <!--
 **HenryGriffiths/HenryGriffiths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
