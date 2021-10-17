@@ -1,6 +1,6 @@
 ### Hi, I'm Henry 👋 
 
-I'm a devops engineer and CTO with a passion for automation.
+I'm a DevOps Engineer with a passion for automation.
 
 <!--
 **HenryGriffiths/HenryGriffiths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
